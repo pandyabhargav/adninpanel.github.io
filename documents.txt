@@ -1,0 +1,9 @@
+https://dreamspos.dreamguystech.com/html/template/index.html
+
+
+font-family: Nunito;
+
+hover-color: #ff9f43;
+main-color: #212b36;
+second-color: #637381;
+background-color: #ffffff;
